@@ -15,5 +15,6 @@ This commands will generate tests reports.
 - negative_tests file
 - positive_tests file
 
+### Tests results
 ![Imagine 1](https://github.com/mihaidaneasa/Restfull-booker-Python-tests/blob/main/Positive%20tests.jpg)
 ![Imagine 2](https://github.com/mihaidaneasa/Restfull-booker-Python-tests/blob/main/Negative%20tests.jpg)
