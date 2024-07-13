@@ -1,5 +1,5 @@
-### Python Backend tests Project
-In this project I tested a few features of Restfull Booker Rest API by sending GET, POST, PUT, PATCH and DELETE requests to "https://restful-booker.herokuapp.com" URL
+### Python API framework tests Project
+In this project I tested a few features of Restfull Booker Rest API by sending GET, POST, PUT, PATCH and DELETE requests to "https://restful-booker.herokuapp.com" URL using API framework in Python with Pycharm IDE.
 
 ### Features
 All tests may be run from terminal commands: 
